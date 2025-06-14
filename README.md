@@ -20,4 +20,30 @@
 ---
 
 ## 📁 Estrutura do Projeto
+PixelCore/
+├── index.html
+├── src/
+│ ├── img/ # Imagens e logos
+│ ├── js/ # Scripts (theme toggle, navegação)
+│ └── css/ # Estilos adicionais (se necessário)
+└── README.md
 
+
+## ⚙️ Funcionalidades do Site
+
+- 🎯 **Landing page institucional** com navegação fluida
+- 💡 Sessões:
+  - Início
+  - Sobre nós
+  - Serviços oferecidos
+  - Equipe
+- 🌓 **Modo claro/escuro com persistência**
+- 🔗 Navegação responsiva com menu hamburguer
+- 📱 Totalmente adaptado para mobile, tablet e desktop
+
+
+## 🧑‍💻 Time de Desenvolvimento
+
+| Nome         | Função                     | Contato                      |
+|--------------|-----------------------------|------------------------------|
+| Bruno Sousa  | Frontend Developer / UI Dev | [[@bruno-linkedin](https://www.linkedin.com/in/bruno-sousa-849754261/)]         |
