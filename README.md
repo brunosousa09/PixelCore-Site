@@ -22,10 +22,15 @@
 ## 📁 Estrutura do Projeto
 PixelCore/
 ├── index.html
+
 ├── src/
+
 │ ├── img/ # Imagens e logos
+
 │ ├── js/ # Scripts (theme toggle, navegação)
+
 │ └── css/ # Estilos adicionais (se necessário)
+
 └── README.md
 
 
